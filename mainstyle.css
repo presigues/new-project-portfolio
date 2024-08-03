@@ -12,24 +12,47 @@ body{
 }
 #name{
     font-family: pixel;
+    color: white;
+    
 }
 
 #pro{
     font-family: pixel;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
 }
 
 #CAD{
     font-family: pixel;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
 }
 
 #about{
     font-family: pixel;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+    border: 1px solid white;
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
 }
 
 #cursor{
     position: fixed;
     width: 25px;
     height: 25px;
-    border-top:  5px solid greenyellow;
+   
 
 }
