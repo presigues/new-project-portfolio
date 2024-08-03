@@ -14,7 +14,7 @@ body{
     font-family: pixel;
     color: white;
     position: fixed;
-    left: 770px;
+    left: 810px;
     top: 0px;
     
 }
@@ -46,6 +46,7 @@ body{
     width: 200px;
     height: 50px;
     border-radius: 15px;
+    transition-duration: 0.4s;
 }
 
 #CAD:hover{
@@ -63,6 +64,7 @@ body{
     width: 200px;
     height: 50px;
     border-radius: 15px;
+    transition-duration: 0.4s;
 }
 
 #about:hover{
@@ -81,7 +83,7 @@ body{
 
 #nav{
     position: fixed;
-    left: 550px;
+    left: 590px;
     top: 40px;
     width: 700px;
     height: 50px;
@@ -104,4 +106,30 @@ body{
 
 #git:hover{
     transform: translateY(-5px);
+}
+
+#hello{
+    font-family: pixel;
+    color: white;
+    font-size: 80px;
+    position: fixed;
+    opacity: 1;
+    left: 700px;
+    top: 400px;
+    animation: animate 4s ease-in;
+}
+
+@keyframes animate {
+    0%{
+        opacity: 0;
+    }
+
+    50%{
+        opacity: .5;
+    }
+
+    100%{
+        opacity: 1;
+    }
+    
 }
