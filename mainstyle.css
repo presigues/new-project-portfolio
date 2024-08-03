@@ -158,7 +158,7 @@ html{
 }
 #abouts{
     width: 100%;
-    height: 1000px;
+    height: 800px;
    
 }
 
@@ -272,4 +272,62 @@ html{
     z-index: 1;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     
+}
+
+#projectss{
+    width: 100%;
+    height: 1400px;
+}
+
+#prohead{
+    font-family: pixel;
+    color: white;
+    font-size: 70px;
+    position: absolute;
+    left: 720px;
+}
+
+#lightning{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 1150px;
+    top: 1790px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    animation: animation1 4s ease-in-out infinite alternate;
+}
+
+@keyframes animation1 {
+
+    0%{
+
+    }
+    50%{
+        transform: translateY(-15px) translateX(5px);
+
+    }
+    100%{
+        transform: translateY(15px) translateX(-5px);
+    }
+    
+}
+
+#bulb{
+    width: 160px;
+    height: 160px;
+    position: absolute;
+    left: 540px;
+    top: 1800px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    animation: animation2 4s ease-in-out infinite alternate;
 }
