@@ -220,5 +220,56 @@ html{
 #frcimage1:hover{
     transform: translateY(-10px) translateX(-10px);
     z-index: 1;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+
+#frcimage2{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    position: absolute;
+    right: 60px;
+    top: 1160px;
+    border: 2px solid white;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    
+}
+
+#frcimage2:hover{
+    transform: translateY(-10px) translateX(-10px);
+    z-index: 1;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    
+}
+
+#frcimage3{
+    width: 350px;
+    height: 250px;
+    border-radius: 15px;
+    position: absolute;
+    right: 190px;
+    top: 1300px;
+    border: 2px solid white;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    
+}
+
+#frcimage3:hover{
+    transform: translateY(-10px) translateX(-10px);
+    z-index: 1;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     
 }
