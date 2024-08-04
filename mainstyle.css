@@ -19,7 +19,7 @@ html{
     font-family: pixel;
     color: white;
     position: fixed;
-    left: 810px;
+    left: 830px;
     top: 0px;
     
 }
@@ -87,8 +87,8 @@ html{
 }
 
 #nav{
-    position: fixed;
-    left: 610px;
+    position: absolute;
+    left: 615px;
     top: 40px;
     width: 100%;
     height: 50px;
@@ -376,6 +376,7 @@ html{
     top: 540px;
     color: white;
     content: '';
+    display: none;
 }
 #wel:hover{
     width: 100px;
@@ -396,6 +397,7 @@ html{
     top: 580px;
     color: white;
     content: '';
+    display: none;
 }
 #abou:hover{
     width: 100px;
@@ -417,8 +419,152 @@ html{
     top: 620px;
     color: white;
     content: '';
+    display: none;
 }
 #proj:hover{
     width: 100px;
     content: 'projects';
+}
+
+
+#programprotitlepan{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 100px;
+    top: 2150px;
+
+}
+
+#programprotitle{
+    font-family: pixel;
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#programproinfo{
+    font-family: pixel;
+    font-size: 15px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#cadprotitlepan{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 100px;
+    top: 2500px;
+
+}
+
+#cadprotitle{
+    font-family: pixel;
+    font-size: 30px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#cadproinfo{
+    font-family: pixel;
+    font-size: 15px;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#cadpro1{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 450px;
+    top: 2500px;
+}
+
+#cadpro2{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 2500px;
+}
+
+#cadpromore{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    right: 100px;
+    top: 2500px;
+    color: white;
+    font-family: pixel;
+    font-size: 30px;
+    transition-duration: 0.4s;
+}
+
+#cadpromore:hover{
+    color: #222;
+    border: 1px solid white;
+    background-color: white;
+}
+
+#propro1{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 450px;
+    top: 2150px;
+}
+
+#propro2{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 1000px;
+    top: 2150px;
+}
+
+#propromore{
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 200px;
+    height: 300px;
+    position: absolute;
+    right: 100px;
+    top: 2150px;
+    color: white;
+    font-family: pixel;
+    font-size: 30px;
+    transition-duration: 0.4s;
+}
+
+#propromore:hover{
+    color: #222;
+    border: 1px solid white;
+    background-color: white;
 }
