@@ -727,3 +727,27 @@ html{
     }
     
 }
+
+#sata{
+    width: 370px;
+    height: 250px;
+    position: absolute;
+    top: 920px;
+    right: -40px;
+    rotate: 0deg;
+
+    animation: float 6s ease-in-out alternate infinite;
+}
+@keyframes float {
+
+    0%{
+
+    }
+    50%{
+        rotate: 20deg;
+    }
+    100%{
+        rotate: -20deg;
+    }
+    
+}
