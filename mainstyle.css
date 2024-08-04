@@ -170,6 +170,7 @@ html{
     border-radius: 15px;
     position: absolute;
     left: 200px;
+    top: 1100px;
 }
 
 #abouthead{
@@ -567,4 +568,36 @@ html{
     color: #222;
     border: 1px solid white;
     background-color: white;
+}
+
+#rocket{
+    width: 170px;
+    height: 230px;
+    position: absolute;
+    left: 1150px;
+    top: 300px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+    animation: animate 4s ease-in;
+    animation: rockani 5s ease-in-out alternate infinite;
+
+}
+
+@keyframes rockani {
+
+    0%{
+
+    }
+    50%{
+        transform: translateY(-30px) translateX(15px);
+
+    }
+    100%{
+        transform: translateY(30px) translateX(-15px);
+    }
+    
 }
