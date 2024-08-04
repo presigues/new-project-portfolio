@@ -493,6 +493,17 @@ html{
     position: absolute;
     left: 450px;
     top: 2500px;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+
+#cadpro1:hover{
+    transform: translateY(-15px) 
 }
 
 #cadpro2{
@@ -504,6 +515,16 @@ html{
     position: absolute;
     left: 1000px;
     top: 2500px;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+#cadpro2:hover{
+    transform: translateY(-15px) 
 }
 
 #cadpromore{
@@ -536,6 +557,17 @@ html{
     position: absolute;
     left: 450px;
     top: 2150px;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+
+#propro1:hover{
+    transform: translateY(-15px) 
 }
 
 #propro2{
@@ -547,8 +579,18 @@ html{
     position: absolute;
     left: 1000px;
     top: 2150px;
+
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
 }
 
+#propro2:hover{
+    transform: translateY(-15px) 
+}
 #propromore{
     background-color: transparent;
     border: 2px solid white;
@@ -576,16 +618,80 @@ html{
     font-size: 20px;
     position: absolute;
     top: 250px;
+    left: 30px;
 }
 
 #propro1img{
-    width: 450px;
+    width: 475px;
     height: 250px;
     border: 2px solid white;
     border-radius: 15px;
     position: absolute;
     top: 5px;
-    left: 20px;
+    left: 10px;
+ 
+
+}
+
+#propro2title{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+
+#propro2img{
+    width: 475px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+ 
+
+}
+
+#cadpro1title{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+
+#cadpro1img{
+    width: 475px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+ 
+
+}
+
+#cadpro2title{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+    left: 30px;
+}
+
+#cadpro2img{
+    width: 475px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 5px;
+    left: 10px;
  
 
 }
