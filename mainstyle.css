@@ -570,6 +570,26 @@ html{
     background-color: white;
 }
 
+#propro1title{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    position: absolute;
+    top: 250px;
+}
+
+#propro1img{
+    width: 450px;
+    height: 250px;
+    border: 2px solid white;
+    border-radius: 15px;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+ 
+
+}
+
 #rocket{
     width: 170px;
     height: 230px;
