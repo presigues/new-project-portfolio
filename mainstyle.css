@@ -1197,3 +1197,115 @@ right: 100px;
             font-family: pixel;
             font-size: 20px;
     }
+
+    #cadproject4{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 500px;
+        height: 300px;
+        position: absolute;
+        top: 550px;
+        left: 100px;
+        }
+        
+        
+        
+        #cadprojecttitle4{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+        
+        }
+        
+        #cadproject5{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 550px;
+        left: 675px;
+            }
+            
+        
+            
+        #cadprojecttitle5{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+            }
+        #cadproject6{ 
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                width: 500px;
+                height: 300px;
+                position: absolute;
+                top: 550px;
+        right: 100px;
+        }
+                
+               
+        #cadprojecttitle6{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+        }
+
+        #cadproject7{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 900px;
+            left: 100px;
+            }
+            
+            
+            
+            #cadprojecttitle7{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+            
+            }
+            
+            #cadproject8{ 
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                width: 500px;
+                height: 300px;
+                position: absolute;
+                top: 900px;
+            left: 675px;
+                }
+                
+            
+                
+            #cadprojecttitle8{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                }
+            #cadproject9{ 
+                    background-color: transparent;
+                    border: 2px solid white;
+                    border-radius: 15px;
+                    width: 500px;
+                    height: 300px;
+                    position: absolute;
+                    top: 900px;
+            right: 100px;
+            }
+                    
+                   
+            #cadprojecttitle9{
+                    color: white;
+                    font-family: pixel;
+                    font-size: 20px;
+            }
