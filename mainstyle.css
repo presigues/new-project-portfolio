@@ -284,6 +284,58 @@ html{
     top: 2000px;
 }
 
+#inttitle{
+    color: white;
+    font-family: pixel;
+    font-size: 70px;
+    position: absolute;
+    left: 750px;
+}
+
+#interestspanel1{
+
+}
+
+#intinfo1{
+color: white;
+font-family: pixel;
+}
+
+#intartpanel{
+
+}
+#intarttitle{
+    color: white;
+    font-family: pixel;
+}
+
+#intpropanel{
+
+}
+
+#intprotitle{
+    color: white;
+    font-family: pixel;
+}
+
+#intmuspanel{
+
+}
+
+#intmustitle{
+    color: white;
+    font-family: pixel;
+}
+
+#intcadpanel{
+
+}
+
+#intcadtitle{
+    color: white;
+    font-family: pixel;
+}
+
 
 #projectss{
     width: 100%;
@@ -449,7 +501,7 @@ html{
     height: 300px;
     position: absolute;
     left: 100px;
-    top: 2150px;
+    top: 250px;
 
 }
 
@@ -477,7 +529,7 @@ html{
     height: 300px;
     position: absolute;
     left: 100px;
-    top: 2500px;
+    top: 600px;
 
 }
 
@@ -505,7 +557,7 @@ html{
     height: 300px;
     position: absolute;
     left: 450px;
-    top: 2500px;
+    top: 600px;
 
     transition-duration: 0.4s;
     transition-property: transform;
@@ -527,7 +579,7 @@ html{
     height: 300px;
     position: absolute;
     left: 1000px;
-    top: 2500px;
+    top: 600px;
 
     transition-duration: 0.4s;
     transition-property: transform;
@@ -548,7 +600,7 @@ html{
     height: 300px;
     position: absolute;
     right: 100px;
-    top: 2500px;
+    top: 600px;
     color: white;
     font-family: pixel;
     font-size: 30px;
@@ -569,7 +621,7 @@ html{
     height: 300px;
     position: absolute;
     left: 450px;
-    top: 2150px;
+    top: 250px;
 
     transition-duration: 0.4s;
     transition-property: transform;
@@ -591,7 +643,7 @@ html{
     height: 300px;
     position: absolute;
     left: 1000px;
-    top: 2150px;
+    top: 250px;
 
     transition-duration: 0.4s;
     transition-property: transform;
@@ -612,7 +664,7 @@ html{
     height: 300px;
     position: absolute;
     right: 100px;
-    top: 2150px;
+    top: 250px;
     color: white;
     font-family: pixel;
     font-size: 30px;
