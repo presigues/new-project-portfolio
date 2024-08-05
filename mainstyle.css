@@ -971,14 +971,14 @@ right: 100px;
     
     
     
-    #proprojecttitle4{
+#proprojecttitle4{
     color: white;
     font-family: pixel;
     font-size: 20px;
     
-    }
+}
     
-    #proproject5{ 
+#proproject5{ 
         background-color: transparent;
         border: 2px solid white;
         border-radius: 15px;
@@ -987,16 +987,16 @@ right: 100px;
         position: absolute;
     top: 850px;
     left: 675px;
-        }
+}
         
     
         
-    #proprojecttitle5{
+#proprojecttitle5{
         color: white;
         font-family: pixel;
         font-size: 20px;
         }
-    #proproject6{ 
+#proproject6{ 
             background-color: transparent;
             border: 2px solid white;
             border-radius: 15px;
@@ -1005,11 +1005,123 @@ right: 100px;
             position: absolute;
             top: 850px;
     right: 100px;
-    }
+}
             
            
-    #proprojecttitle6{
+#proprojecttitle6{
             color: white;
             font-family: pixel;
             font-size: 20px;
+}
+
+#proproject7{ 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 1200px;
+    left: 100px;
     }
+    
+    
+    
+#proprojecttitle7{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    
+}
+    
+#proproject8{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 500px;
+        height: 300px;
+        position: absolute;
+        top: 1200px;
+    left: 675px;
+}
+        
+    
+        
+#proprojecttitle8{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+        }
+#proproject9{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 1200px;
+    right: 100px;
+}
+            
+           
+#proprojecttitle9{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+}
+
+#proproject10{ 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+         top: 1550px;
+    left: 100px;
+    }
+    
+    
+    
+#proprojecttitle10{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    
+}
+    
+#proproject11{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 500px;
+        height: 300px;
+        position: absolute;
+        top: 1550px;
+    left: 675px;
+}
+        
+    
+        
+#proprojecttitle11{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+        }
+#proproject12{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 1550px;
+    right: 100px;
+}
+            
+           
+#proprojecttitle12{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+}
