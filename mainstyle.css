@@ -882,24 +882,28 @@ margin-right: 20px;
 
 /* PROJECT PAGE ------------------------------------------- */
 
-#allprotitle{
-    color: white;
-    font-family: pixel;
-    font-size: 60px;
+#allpro{
+    width: 100%;
+    height: 3000px;
 }
+
+
 
 #proprojectstitle{
     color: white;
     font-family: pixel;
     font-size: 50px;
+    position: absolute;
+    left: 560px;
+    top: 300px;
 }
 
 #proproject1{ 
 background-color: transparent;
 border: 2px solid white;
 border-radius: 15px;
-width: 200px;
-height: 200px;
+width: 400px;
+height: 300px;
 }
 
 #proprojectimg1{
@@ -907,5 +911,43 @@ height: 200px;
 }
 
 #proprojecttitle1{
-
+color: white;
+font-family: pixel;
+font-size: 20px;
 }
+
+#proproject2{ 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: 300px;
+    }
+    
+    #proprojectimg2{
+    
+    }
+    
+    #proprojecttitle2{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    }
+
+    #proproject3{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 400px;
+        height: 300px;
+        }
+        
+        #proprojectimg3{
+        
+        }
+        
+        #proprojecttitle3{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+        }
