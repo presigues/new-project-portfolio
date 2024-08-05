@@ -880,3 +880,32 @@ margin-right: 20px;
     
 }
 
+/* PROJECT PAGE ------------------------------------------- */
+
+#allprotitle{
+    color: white;
+    font-family: pixel;
+    font-size: 60px;
+}
+
+#proprojectstitle{
+    color: white;
+    font-family: pixel;
+    font-size: 50px;
+}
+
+#proproject1{ 
+background-color: transparent;
+border: 2px solid white;
+border-radius: 15px;
+width: 200px;
+height: 200px;
+}
+
+#proprojectimg1{
+
+}
+
+#proprojecttitle1{
+
+}

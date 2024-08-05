@@ -7,5 +7,54 @@
         <title>Menu</title>
     </head>
     <body>
+        <script>
+            let cursor = document.querySelector('#cursor');
+            let body = document.querySelector('body');
+            document.addEventListener('mousemove', (e) => {
+            body.style.backgroundPositionX = e.pageX + 'px';
+            body.style.backgroundPositionY = e.pageY + 'px';
+            })
+
+        </script>
+          <nav id="nav">   
+            <p id="name">Preston Messina</p>
+            <a href="projects.html">
+            <button id="pro">Projects</button>
+            </a>
+            <a href="interests.html">
+            <button id="CAD">Interests</button>
+            </a>
+            <a href="about.html">
+            <button id="about">About</button>
+            </a>
+            <img id="git" src="imgs/kindpng_1280233 (1).png">
+        </nav>
+
+
+
+        <section id="allpro">
+<p id="allprotitle">All Projects</p>
+
+
+<p id="proprojectstitle">Programming projects</p>
+
+<div id="proproject1">
+<img src="" id="proprojectimg1">
+<p id="proprojecttitle1"></p>
+</div>
+
+<div id="proproject2">
+    <img src="" id="proprojectimg2">
+    <p id="proproject2"></p>
+</div>
+<div id="proproject3">
+    <img src="" id="proprojectimg3">
+    <p id="proproject3"></p>
+</div>
+
+
+
+
+        </section>
         </body>
         </html>
