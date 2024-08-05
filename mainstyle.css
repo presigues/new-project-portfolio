@@ -292,39 +292,79 @@ html{
     left: 750px;
 }
 
-#interestspanel1{
-
+#interetspanel1{
+background-color: transparent;
+border: 2px solid white;
+border-radius: 15px;
+width: 950px;
+height: 200px;
+position: absolute;
+left: 450px;
+top: 200px;
 }
 
 #intinfo1{
 color: white;
 font-family: pixel;
+font-size: 20px;
+margin-left: 30px;
+margin-right: 30px;
 }
 
 #intartpanel{
-
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    left: 200px;
+    top: 500px;
 }
 #intarttitle{
     color: white;
     font-family: pixel;
+    font-size: 40px;
+    position: absolute;
+    left: 150px;
 }
 
 #intpropanel{
-
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    left: 750px;
+    top: 500px;
 }
 
 #intprotitle{
     color: white;
     font-family: pixel;
+    font-size: 40px;
+    position: absolute;
+    left: 40px;
 }
 
 #intmuspanel{
-
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 400px;
+    height: 450px;
+    position: absolute;
+    left: 1300px;
+    top: 500px;
 }
 
 #intmustitle{
     color: white;
-    font-family: pixel;
+    font-family: pixel; 
+    font-size: 40px;
+    position: absolute;
+    left: 120px;
 }
 
 #intcadpanel{
@@ -358,7 +398,7 @@ font-family: pixel;
     height: 200px;
     position: absolute;
     left: 1150px;
-    top: 1790px;
+    
     transition-duration: 0.4s;
     transition-property: transform;
     transition-timing-function: ease;
@@ -388,7 +428,7 @@ font-family: pixel;
     height: 160px;
     position: absolute;
     left: 540px;
-    top: 1800px;
+  
     transition-duration: 0.4s;
     transition-property: transform;
     transition-timing-function: ease;
