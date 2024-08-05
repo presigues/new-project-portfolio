@@ -887,7 +887,7 @@ margin-right: 20px;
 
 #allpro{
     width: 100%;
-    height: 3000px;
+    height: 2100px;
  
 }
 
@@ -1125,3 +1125,75 @@ right: 100px;
             font-family: pixel;
             font-size: 20px;
 }
+
+#allcad{
+    width: 100%;
+    height: 2000px;
+    position: absolute;
+    top: 2100px;
+}
+
+#cadprojectstitle{
+    color: white;
+    font-family: pixel;
+    font-size: 50px;
+    position: absolute;
+    left: 700px;
+    
+}
+
+#cadproject1{ 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    }
+    
+    
+    
+    #cadprojecttitle1{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    
+    }
+    
+    #cadproject2{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 500px;
+        height: 300px;
+        position: absolute;
+        top: 200px;
+    left: 675px;
+        }
+        
+    
+        
+    #cadprojecttitle2{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+        }
+    #cadproject3{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 200px;
+    right: 100px;
+    }
+            
+           
+    #cadprojecttitle3{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+    }
