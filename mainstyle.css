@@ -882,9 +882,13 @@ margin-right: 20px;
 
 /* PROJECT PAGE ------------------------------------------- */
 
+
+
+
 #allpro{
     width: 100%;
     height: 3000px;
+ 
 }
 
 
@@ -902,52 +906,110 @@ margin-right: 20px;
 background-color: transparent;
 border: 2px solid white;
 border-radius: 15px;
-width: 400px;
+width: 500px;
 height: 300px;
+position: absolute;
+top: 500px;
+left: 100px;
 }
 
-#proprojectimg1{
 
-}
 
 #proprojecttitle1{
 color: white;
 font-family: pixel;
 font-size: 20px;
+
 }
 
 #proproject2{ 
     background-color: transparent;
     border: 2px solid white;
     border-radius: 15px;
-    width: 400px;
+    width: 500px;
     height: 300px;
+    position: absolute;
+top: 500px;
+left: 675px;
     }
     
-    #proprojectimg2{
+
     
-    }
-    
-    #proprojecttitle2{
+#proprojecttitle2{
     color: white;
     font-family: pixel;
     font-size: 20px;
     }
-
-    #proproject3{ 
+#proproject3{ 
         background-color: transparent;
         border: 2px solid white;
         border-radius: 15px;
-        width: 400px;
+        width: 500px;
         height: 300px;
+        position: absolute;
+top: 500px;
+right: 100px;
+}
+        
+       
+#proprojecttitle3{
+        color: white;
+        font-family: pixel;
+        font-size: 20px;
+}
+
+#proproject4{ 
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    top: 850px;
+    left: 100px;
+    }
+    
+    
+    
+    #proprojecttitle4{
+    color: white;
+    font-family: pixel;
+    font-size: 20px;
+    
+    }
+    
+    #proproject5{ 
+        background-color: transparent;
+        border: 2px solid white;
+        border-radius: 15px;
+        width: 500px;
+        height: 300px;
+        position: absolute;
+    top: 850px;
+    left: 675px;
         }
         
-        #proprojectimg3{
+    
         
-        }
-        
-        #proprojecttitle3{
+    #proprojecttitle5{
         color: white;
         font-family: pixel;
         font-size: 20px;
         }
+    #proproject6{ 
+            background-color: transparent;
+            border: 2px solid white;
+            border-radius: 15px;
+            width: 500px;
+            height: 300px;
+            position: absolute;
+            top: 850px;
+    right: 100px;
+    }
+            
+           
+    #proprojecttitle6{
+            color: white;
+            font-family: pixel;
+            font-size: 20px;
+    }
