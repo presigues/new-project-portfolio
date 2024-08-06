@@ -2336,7 +2336,7 @@ top: 250px;
             }
             #square2{
                 position: absolute;
-                left: 350px;
+                right: 350px;
                 top: 250px;
                 transition-duration: 0.3s;
                 transition-property: transform;
@@ -2348,8 +2348,8 @@ top: 250px;
             }
             #square3{
                 position: absolute;
-                left: 250px;
-                top: 150px;
+                left: 270px;
+                top: 240px;
                 transition-duration: 0.3s;
                 transition-property: transform;
                 transition-timing-function: ease;
@@ -2360,7 +2360,7 @@ top: 250px;
             }
             #square4{
                 position: absolute;
-                left: 270px;
+                right: 270px;
                 top: 200px;
                 transition-duration: 0.3s;
                 transition-property: transform;
@@ -2370,6 +2370,94 @@ top: 250px;
                 transition: transform 0.3s;
                 animation: rotatevar1 10s ease-in-out alternate infinite;
             }
+
+            #triangle1{
+                position: absolute;
+                left: 350px;
+                top: 160px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 17s ease-in-out alternate infinite;
+            }
+            #triangle2{
+                position: absolute;
+                right: 250px;
+                top: 250px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #triangle3{
+                position: absolute;
+                left: 200px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 13s ease-in-out alternate infinite;
+            }
+
+            #triangle4{
+                position: absolute;
+                right: 300px;
+                top: 350px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 13s ease-in-out alternate infinite;
+            }
+
+            #circle1{
+                position: absolute;
+                left: 180px;
+                top: 300px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 15s ease-in-out alternate infinite;
+            }
+            #circle2{
+                position: absolute;
+                right: 350px;
+                top: 180px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 15s ease-in-out alternate infinite;
+            }
+            #circle3{
+                position: absolute;
+                right: 180px;
+                top: 320px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 11s ease-in-out alternate infinite;
+            }
+
 
             @keyframes rotatevar1 {
 
