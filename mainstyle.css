@@ -1324,7 +1324,7 @@ right: 100px;
                 width: 100%;
                 height: 800px;
                 position: absolute;
-                top: 800px;
+                top: 1000px;
             }
             #aboutpanel1{
                 background-color: transparent;
@@ -1440,6 +1440,80 @@ right: 100px;
                 font-size: 20px;
                 position: absolute;
                 top: 420px;
+                right: 100px;
+            }
+
+            #photoimg5{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 100px;
+                top: 500px;
+            }
+
+            #infoimg5{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 100px;
+            }
+
+            #photoimg6{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 550px;
+                top: 500px;
+            }
+
+            #infoimg6{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 550px;
+            }
+            #photoimg7{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 550px;
+                top: 500px;
+            }
+
+            #infoimg7{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 550px;
+            }
+            #photoimg8{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 100px;
+                top: 500px;
+            }
+
+            #infoimg8{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 780px;
                 right: 100px;
             }
             
