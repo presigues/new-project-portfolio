@@ -2290,6 +2290,7 @@ top: 250px;
                 }
                 50%{
                     rotate: -40deg;
+                    
                 }
                 100%{
                     rotate: 20deg;
@@ -2317,6 +2318,71 @@ top: 250px;
                 }
                 100%{
                     rotate: -20deg;
+                }
+                
+            }
+
+            #square1{
+                position: absolute;
+                left: 300px;
+                top: 300px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 10s ease-in-out alternate infinite;
+            }
+            #square2{
+                position: absolute;
+                left: 350px;
+                top: 250px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 12s ease-in-out alternate infinite;
+            }
+            #square3{
+                position: absolute;
+                left: 250px;
+                top: 150px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #square4{
+                position: absolute;
+                left: 270px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 10s ease-in-out alternate infinite;
+            }
+
+            @keyframes rotatevar1 {
+
+                0%{
+                    rotate: 20deg;
+                }
+                50%{
+                    rotate: -120deg;
+                    transform: translateY(-10px) translateX(-3px);
+                }
+                100%{
+                    rotate: 80deg;
+                    transform: translateY(10px) translateX(3px);
                 }
                 
             }
