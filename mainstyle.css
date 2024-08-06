@@ -2493,7 +2493,7 @@ top: 250px;
             #squarem5{
                 position: absolute;
                 left: 50px;
-                top: 150px;
+                top: 250px;
                 transition-duration: 0.3s;
                 transition-property: transform;
                 transition-timing-function: ease;
@@ -2515,6 +2515,57 @@ top: 250px;
                 transition: transform 0.3s;
                 animation: rotatevar1 13s ease-in-out alternate infinite;
             }
+
+            #trim1{
+                position: absolute;
+                left: 300px;
+                top: 640px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 13s ease-in-out alternate infinite;
+            }
+            
+            #trim2{
+                position: absolute;
+                right: 400px;
+                top: 400px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 16s ease-in-out alternate infinite;
+            }
+            #trim3{
+                position: absolute;
+                right: 100px;
+                top: 500px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #trim4{
+                position: absolute;
+                left: 150px;
+                top: 450px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+
 
 
             @keyframes rotatevar1 {
