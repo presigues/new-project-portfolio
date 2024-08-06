@@ -949,12 +949,25 @@ transition: transform 0.3s;
     transform: translateY(-10px);
 }
 
+#propro1img{
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
 
 
 #proprojecttitle1{
 color: white;
 font-family: pixel;
 font-size: 20px;
+margin-left: 20px;
+position: absolute;
+top: 250px;
 
 }
 
@@ -979,6 +992,16 @@ transition: transform 0.3s;
     transform: translateY(-10px);
 }
 
+#propro2img{
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
 
     
 
@@ -987,6 +1010,9 @@ transition: transform 0.3s;
     color: white;
     font-family: pixel;
     font-size: 20px;
+    margin-left: 20px;
+position: absolute;
+top: 250px;
     }
 #proproject3{ 
         background-color: transparent;
@@ -1009,6 +1035,16 @@ transition: transform 0.3s;
     transform: translateY(-10px);
 }
 
+#propro3img{
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
 
         
        
@@ -1016,6 +1052,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
 }
 
 #proproject4{ 
@@ -1038,12 +1077,25 @@ transition: transform 0.3s;
     #proproject4:hover{
         transform: translateY(-10px);
     }
+
+    #propro4img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
 #proprojecttitle4{
     color: white;
     font-family: pixel;
     font-size: 20px;
+    margin-left: 20px;
+position: absolute;
+top: 250px;
     
 }
     
@@ -1067,6 +1119,16 @@ transition: transform 0.3s;
     #proproject5:hover{
         transform: translateY(-10px);
     }
+
+    #propro5img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
         
@@ -1076,6 +1138,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
         }
 #proproject6{ 
             background-color: transparent;
@@ -1097,6 +1162,16 @@ transition: transform 0.3s;
     #proproject6:hover{
         transform: translateY(-10px);
     }
+
+    #propro6img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
             
@@ -1105,6 +1180,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
 }
 
 #proproject7{ 
@@ -1127,6 +1205,16 @@ transition: transform 0.3s;
     #proproject7:hover{
         transform: translateY(-10px);
     }
+
+    #propro7img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
     
@@ -1136,6 +1224,9 @@ transition: transform 0.3s;
     color: white;
     font-family: pixel;
     font-size: 20px;
+    margin-left: 20px;
+position: absolute;
+top: 250px;
     
 }
     
@@ -1159,6 +1250,16 @@ transition: transform 0.3s;
     #proproject8:hover{
         transform: translateY(-10px);
     }
+
+    #propro8img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
         
@@ -1168,6 +1269,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
         }
 #proproject9{ 
             background-color: transparent;
@@ -1189,6 +1293,16 @@ transition: transform 0.3s;
     #proproject9:hover{
         transform: translateY(-10px);
     }
+
+    #propro9img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
             
@@ -1197,6 +1311,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
 }
 
 #proproject10{ 
@@ -1216,6 +1333,16 @@ transition-delay: 0s;
 transition: transform 0.3s;
 }
 
+#propro10img{
+    width: 450px;
+    height: 240px;
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    border: 2px solid white;
+    border-radius: 15px;
+}
+
 #proproject10:hover{
     transform: translateY(-10px);
 }
@@ -1228,6 +1355,9 @@ transition: transform 0.3s;
     color: white;
     font-family: pixel;
     font-size: 20px;
+    margin-left: 20px;
+position: absolute;
+top: 250px;
     
 }
     
@@ -1251,6 +1381,16 @@ transition: transform 0.3s;
     #proproject11:hover{
         transform: translateY(-10px);
     }
+
+    #propro11img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
         
@@ -1260,6 +1400,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
         }
 #proproject12{ 
             background-color: transparent;
@@ -1281,6 +1424,16 @@ transition: transform 0.3s;
     #proproject12:hover{
         transform: translateY(-10px);
     }
+
+    #propro12img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
     
     
             
@@ -1289,6 +1442,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
 }
 
 #allcad{
@@ -1336,6 +1492,9 @@ transition: transform 0.3s;
     color: white;
     font-family: pixel;
     font-size: 20px;
+    margin-left: 20px;
+position: absolute;
+top: 250px;
     
     }
     
@@ -1366,6 +1525,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
         }
     #cadproject3{ 
             background-color: transparent;
@@ -1393,6 +1555,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
     }
 
     #cadproject4{ 
@@ -1422,6 +1587,9 @@ transition: transform 0.3s;
         color: white;
         font-family: pixel;
         font-size: 20px;
+        margin-left: 20px;
+position: absolute;
+top: 250px;
         
         }
         
@@ -1452,6 +1620,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
             }
         #cadproject6{ 
                 background-color: transparent;
@@ -1479,6 +1650,9 @@ transition: transform 0.3s;
                 color: white;
                 font-family: pixel;
                 font-size: 20px;
+                margin-left: 20px;
+position: absolute;
+top: 250px;
         }
 
         #cadproject7{ 
@@ -1508,6 +1682,9 @@ transition: transform 0.3s;
             color: white;
             font-family: pixel;
             font-size: 20px;
+            margin-left: 20px;
+position: absolute;
+top: 250px;
             
             }
             
@@ -1538,6 +1715,9 @@ transition: transform 0.3s;
                 color: white;
                 font-family: pixel;
                 font-size: 20px;
+                margin-left: 20px;
+position: absolute;
+top: 250px;
                 }
             #cadproject9{ 
                     background-color: transparent;
@@ -1565,6 +1745,9 @@ transition: transform 0.3s;
                     color: white;
                     font-family: pixel;
                     font-size: 20px;
+                    margin-left: 20px;
+position: absolute;
+top: 250px;
             }
 
 
