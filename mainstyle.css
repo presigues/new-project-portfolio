@@ -845,39 +845,6 @@ margin-right: 20px;
 
 }
 
-#rocket{
-    width: 170px;
-    height: 230px;
-    position: absolute;
-    left: 1150px;
-    top: 300px;
-    transition-duration: 0.4s;
-    transition-property: transform;
-    transition-timing-function: ease;
-    transition-delay: 0s;
-
-    transition: transform 0.3s;
-    animation: animate 4s ease-in;
-    animation: rockani 5s ease-in-out alternate infinite;
-
-}
-
-
-
-@keyframes rockani {
-
-    0%{
-
-    }
-    50%{
-        transform: translateY(-30px) translateX(15px);
-
-    }
-    100%{
-        transform: translateY(30px) translateX(-15px);
-    }
-    
-}
 
 
 
@@ -2458,6 +2425,97 @@ top: 250px;
                 animation: rotatevar1 11s ease-in-out alternate infinite;
             }
 
+            /* INTRO PARTICALS*/
+
+            #squarem1{
+                position: absolute;
+                right: 270px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 10s ease-in-out alternate infinite;
+            }
+
+            #squarem1{
+                position: absolute;
+                right: 270px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 10s ease-in-out alternate infinite;
+            }
+            #squarem2{
+                position: absolute;
+                left: 300px;
+                top: 400px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 7s ease-in-out alternate infinite;
+            }
+
+            #squarem3{
+                position: absolute;
+                right: 330px;
+                top: 600px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 16s ease-in-out alternate infinite;
+            }
+            #squarem4{
+                position: absolute;
+                left: 150px;
+                top: 700px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 12s ease-in-out alternate infinite;
+            }
+
+            #squarem5{
+                position: absolute;
+                left: 50px;
+                top: 150px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 12s ease-in-out alternate infinite;
+            }
+
+            #squarem6{
+                position: absolute;
+                right: 80px;
+                top: 700px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 13s ease-in-out alternate infinite;
+            }
+
 
             @keyframes rotatevar1 {
 
@@ -2466,11 +2524,11 @@ top: 250px;
                 }
                 50%{
                     rotate: -120deg;
-                    transform: translateY(-10px) translateX(-3px);
+                    transform: translateY(-20px) translateX(-3px);
                 }
                 100%{
                     rotate: 80deg;
-                    transform: translateY(10px) translateX(3px);
+                    transform: translateY(20px) translateX(3px);
                 }
                 
             }
