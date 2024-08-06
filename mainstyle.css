@@ -1323,6 +1323,8 @@ right: 100px;
             #coolphotos{
                 width: 100%;
                 height: 800px;
+                position: absolute;
+                top: 800px;
             }
             #aboutpanel1{
                 background-color: transparent;
@@ -1361,11 +1363,83 @@ right: 100px;
                 left: 400px;
             }
 
+            #photo1{
+                width: 300px;
+                height: 350px;
+            }
+
 
             #photoimg1{
-                width: 200px;
-                height: 150px;
+                width: 300px;
+                height: 275px;
                 border: 2px solid white;
                 border-radius: 15px;
+                position: absolute;
+                left: 100px;
+                top: 150px;
+            }
+
+            #infoimg1{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 100px;
+            }
+
+            #photoimg2{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 550px;
+                top: 150px;
+            }
+
+            #infoimg2{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 550px;
+            }
+            #photoimg3{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 550px;
+                top: 150px;
+            }
+
+            #infoimg3{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                left: 550px;
+            }
+            #photoimg4{
+                width: 300px;
+                height: 275px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 100px;
+                top: 150px;
+            }
+
+            #infoimg4{
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                position: absolute;
+                top: 420px;
+                right: 100px;
             }
             
