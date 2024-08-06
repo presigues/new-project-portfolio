@@ -1541,4 +1541,173 @@ right: 100px;
                 top: 780px;
                 right: 100px;
             }
+
+
+            /* INTERESTS -------------------------------------------- */
+
+            #int{
+                width: 100%;
+                height: 2000px;
+            }
+
+
+            #intitlemain{
+                font-family: pixel;
+                font-size: 50px;
+                color: white;
+
+                position: absolute;
+                top: 100px;
+                left: 770px;
+            }
+
+            #intartmain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 100px;
+                top: 300px;
+            }
+
+            #intartmaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intartmaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
+            #intmusmain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 100px;
+                top: 300px;
+            }
+
+            #intmusmaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intmusmaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
+            #intpromain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 730px;
+                top: 300px;
+            }
+
+            #intpromaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intpromaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
+            #intcadmain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 730px;
+                top: 900px;
+            }
+
+            #intcadmaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intcadmaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+            #intdevmain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                left: 100px;
+                top: 900px;
+            }
+
+            #intdevmaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intdevmaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
+            #intbikmain{
+                width: 400px;
+                height: 500px;
+                background-color: transparent;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                right: 100px;
+                top: 900px;
+            }
+
+            #intbikmaintitle{
+                font-family: pixel;
+                color: white;
+                font-size: 40px;
+              margin-left: 150px;
+            }
+
+            #intbikmaininfo{
+                font-family: pixel;
+                color: white;
+                font-size: 15px;
+                margin-left: 20px;
+            }
+
             
