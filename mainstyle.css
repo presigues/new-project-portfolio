@@ -936,6 +936,17 @@ height: 300px;
 position: absolute;
 top: 500px;
 left: 100px;
+
+transition-duration: 0.3s;
+transition-property: transform;
+transition-timing-function: ease;
+transition-delay: 0s;
+
+transition: transform 0.3s;
+}
+
+#proproject1:hover{
+    transform: translateY(-10px);
 }
 
 
@@ -956,7 +967,19 @@ font-size: 20px;
     position: absolute;
 top: 500px;
 left: 675px;
-    }
+transition-duration: 0.3s;
+transition-property: transform;
+transition-timing-function: ease;
+transition-delay: 0s;
+
+transition: transform 0.3s;
+}
+
+#proproject2:hover{
+    transform: translateY(-10px);
+}
+
+
     
 
     
@@ -974,7 +997,19 @@ left: 675px;
         position: absolute;
 top: 500px;
 right: 100px;
+transition-duration: 0.3s;
+transition-property: transform;
+transition-timing-function: ease;
+transition-delay: 0s;
+
+transition: transform 0.3s;
 }
+
+#proproject3:hover{
+    transform: translateY(-10px);
+}
+
+
         
        
 #proprojecttitle3{
@@ -992,8 +1027,17 @@ right: 100px;
     position: absolute;
     top: 850px;
     left: 100px;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
     }
     
+    #proproject4:hover{
+        transform: translateY(-10px);
+    }
     
     
 #proprojecttitle4{
@@ -1012,7 +1056,19 @@ right: 100px;
         position: absolute;
     top: 850px;
     left: 675px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject5:hover{
+        transform: translateY(-10px);
+    }
+    
+    
         
     
         
@@ -1030,7 +1086,19 @@ right: 100px;
             position: absolute;
             top: 850px;
     right: 100px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject6:hover{
+        transform: translateY(-10px);
+    }
+    
+    
             
            
 #proprojecttitle6{
@@ -1048,7 +1116,19 @@ right: 100px;
     position: absolute;
     top: 1200px;
     left: 100px;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
     }
+    
+    #proproject7:hover{
+        transform: translateY(-10px);
+    }
+    
+    
     
     
     
@@ -1068,7 +1148,19 @@ right: 100px;
         position: absolute;
         top: 1200px;
     left: 675px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject8:hover{
+        transform: translateY(-10px);
+    }
+    
+    
         
     
         
@@ -1086,7 +1178,19 @@ right: 100px;
             position: absolute;
             top: 1200px;
     right: 100px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject9:hover{
+        transform: translateY(-10px);
+    }
+    
+    
             
            
 #proprojecttitle9{
@@ -1104,7 +1208,19 @@ right: 100px;
     position: absolute;
          top: 1550px;
     left: 100px;
-    }
+    transition-duration: 0.3s;
+transition-property: transform;
+transition-timing-function: ease;
+transition-delay: 0s;
+
+transition: transform 0.3s;
+}
+
+#proproject10:hover{
+    transform: translateY(-10px);
+}
+
+
     
     
     
@@ -1124,7 +1240,19 @@ right: 100px;
         position: absolute;
         top: 1550px;
     left: 675px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject11:hover{
+        transform: translateY(-10px);
+    }
+    
+    
         
     
         
@@ -1142,7 +1270,19 @@ right: 100px;
             position: absolute;
             top: 1550px;
     right: 100px;
-}
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #proproject12:hover{
+        transform: translateY(-10px);
+    }
+    
+    
             
            
 #proprojecttitle12{
@@ -1176,7 +1316,19 @@ right: 100px;
     position: absolute;
     top: 200px;
     left: 100px;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
     }
+    
+    #cadproject1:hover{
+        transform: translateY(-10px);
+    }
+    
+    
     
     
     
@@ -1196,7 +1348,17 @@ right: 100px;
         position: absolute;
         top: 200px;
     left: 675px;
-        }
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #cadproject2:hover{
+        transform: translateY(-10px);
+    }
         
     
         
@@ -1214,6 +1376,16 @@ right: 100px;
             position: absolute;
             top: 200px;
     right: 100px;
+    transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #cadproject3:hover{
+        transform: translateY(-10px);
     }
             
            
@@ -1232,6 +1404,16 @@ right: 100px;
         position: absolute;
         top: 550px;
         left: 100px;
+        transition-duration: 0.3s;
+        transition-property: transform;
+        transition-timing-function: ease;
+        transition-delay: 0s;
+        
+        transition: transform 0.3s;
+        }
+        
+        #cadproject4:hover{
+            transform: translateY(-10px);
         }
         
         
@@ -1252,7 +1434,17 @@ right: 100px;
             position: absolute;
             top: 550px;
         left: 675px;
-            }
+        transition-duration: 0.3s;
+        transition-property: transform;
+        transition-timing-function: ease;
+        transition-delay: 0s;
+        
+        transition: transform 0.3s;
+        }
+        
+        #cadproject5:hover{
+            transform: translateY(-10px);
+        }
             
         
             
@@ -1270,7 +1462,17 @@ right: 100px;
                 position: absolute;
                 top: 550px;
         right: 100px;
-        }
+        transition-duration: 0.3s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    
+    transition: transform 0.3s;
+    }
+    
+    #cadproject6:hover{
+        transform: translateY(-10px);
+    }
                 
                
         #cadprojecttitle6{
@@ -1288,6 +1490,16 @@ right: 100px;
             position: absolute;
             top: 900px;
             left: 100px;
+            transition-duration: 0.3s;
+            transition-property: transform;
+            transition-timing-function: ease;
+            transition-delay: 0s;
+            
+            transition: transform 0.3s;
+            }
+            
+            #cadproject7:hover{
+                transform: translateY(-10px);
             }
             
             
@@ -1308,7 +1520,17 @@ right: 100px;
                 position: absolute;
                 top: 900px;
             left: 675px;
-                }
+            transition-duration: 0.3s;
+            transition-property: transform;
+            transition-timing-function: ease;
+            transition-delay: 0s;
+            
+            transition: transform 0.3s;
+            }
+            
+            #cadproject8:hover{
+                transform: translateY(-10px);
+            }
                 
             
                 
@@ -1326,6 +1548,16 @@ right: 100px;
                     position: absolute;
                     top: 900px;
             right: 100px;
+            transition-duration: 0.3s;
+            transition-property: transform;
+            transition-timing-function: ease;
+            transition-delay: 0s;
+            
+            transition: transform 0.3s;
+            }
+            
+            #cadproject9:hover{
+                transform: translateY(-10px);
             }
                     
                    
@@ -1570,7 +1802,18 @@ right: 100px;
                 position: absolute;
                 left: 100px;
                 top: 300px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intartmain:hover{
+                    transform: translateY(-10px);
+                }
+                  
 
             #intartmaintitle{
                 font-family: pixel;
@@ -1595,7 +1838,17 @@ right: 100px;
                 position: absolute;
                 right: 100px;
                 top: 300px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intmusmain:hover{
+                    transform: translateY(-10px);
+                }
 
             #intmusmaintitle{
                 font-family: pixel;
@@ -1620,7 +1873,17 @@ right: 100px;
                 position: absolute;
                 left: 730px;
                 top: 300px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intpromain:hover{
+                    transform: translateY(-10px);
+                }
 
             #intpromaintitle{
                 font-family: pixel;
@@ -1645,7 +1908,17 @@ right: 100px;
                 position: absolute;
                 left: 730px;
                 top: 900px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intcadmain:hover{
+                    transform: translateY(-10px);
+                }
 
             #intcadmaintitle{
                 font-family: pixel;
@@ -1669,7 +1942,17 @@ right: 100px;
                 position: absolute;
                 left: 100px;
                 top: 900px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intdevmain:hover{
+                    transform: translateY(-10px);
+                }
 
             #intdevmaintitle{
                 font-family: pixel;
@@ -1694,7 +1977,17 @@ right: 100px;
                 position: absolute;
                 right: 100px;
                 top: 900px;
-            }
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                }
+                
+                #intbikmain:hover{
+                    transform: translateY(-10px);
+                }
 
             #intbikmaintitle{
                 font-family: pixel;
