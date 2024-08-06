@@ -203,6 +203,27 @@ html{
     font-size: 20px;
 }
 
+#toabouts{
+    font-family: pixel;
+    font-size: 20px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    width: 300px;
+    height: 75px;
+    position: absolute;
+    top: 460px;
+    left: 900px;
+    transition-duration: 0.4s;
+}
+
+#toabouts:hover{
+    color: #222;
+    border: 1px solid white;
+    background-color: white;
+}
+
 #frcimage1{
     width: 300px;
     height: 250px;
@@ -279,7 +300,7 @@ html{
 
 #interests{
     width: 100%;
-    height: 1400px;
+    height: 1100px;
     position: absolute;
     top: 1600px;
 }
@@ -841,6 +862,8 @@ margin-right: 20px;
 
 }
 
+
+
 @keyframes rockani {
 
     0%{
@@ -855,6 +878,8 @@ margin-right: 20px;
     }
     
 }
+
+
 
 #sata{
     width: 370px;
@@ -1322,7 +1347,7 @@ right: 100px;
 
             #coolphotos{
                 width: 100%;
-                height: 800px;
+                height: 1600px;
                 position: absolute;
                 top: 1000px;
             }
@@ -1458,7 +1483,7 @@ right: 100px;
                 font-family: pixel;
                 font-size: 20px;
                 position: absolute;
-                top: 420px;
+                top: 780px;
                 left: 100px;
             }
 
@@ -1495,8 +1520,8 @@ right: 100px;
                 font-family: pixel;
                 font-size: 20px;
                 position: absolute;
-                top: 420px;
-                left: 550px;
+                left: 520px;
+                top: 780px;
             }
             #photoimg8{
                 width: 300px;
