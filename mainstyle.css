@@ -1484,6 +1484,16 @@ top: 250px;
         transform: translateY(-10px);
     }
     
+    #cadpro1img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
+    
     
     
     
@@ -1518,6 +1528,15 @@ top: 250px;
     #cadproject2:hover{
         transform: translateY(-10px);
     }
+    #cadpro2img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
         
     
         
@@ -1549,6 +1568,16 @@ top: 250px;
     #cadproject3:hover{
         transform: translateY(-10px);
     }
+
+    #cadpro3img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
             
            
     #cadprojecttitle3{
@@ -1579,6 +1608,16 @@ top: 250px;
         
         #cadproject4:hover{
             transform: translateY(-10px);
+        }
+
+        #cadpro4img{
+            width: 450px;
+            height: 240px;
+            position: absolute;
+            left: 25px;
+            top: 15px;
+            border: 2px solid white;
+            border-radius: 15px;
         }
         
         
@@ -1613,6 +1652,16 @@ top: 250px;
         #cadproject5:hover{
             transform: translateY(-10px);
         }
+
+        #cadpro5img{
+            width: 450px;
+            height: 240px;
+            position: absolute;
+            left: 25px;
+            top: 15px;
+            border: 2px solid white;
+            border-radius: 15px;
+        }
             
         
             
@@ -1644,6 +1693,16 @@ top: 250px;
     #cadproject6:hover{
         transform: translateY(-10px);
     }
+
+    #cadpro6img{
+        width: 450px;
+        height: 240px;
+        position: absolute;
+        left: 25px;
+        top: 15px;
+        border: 2px solid white;
+        border-radius: 15px;
+    }
                 
                
         #cadprojecttitle6{
@@ -1674,6 +1733,16 @@ top: 250px;
             
             #cadproject7:hover{
                 transform: translateY(-10px);
+            }
+
+            #cadpro7img{
+                width: 450px;
+                height: 240px;
+                position: absolute;
+                left: 25px;
+                top: 15px;
+                border: 2px solid white;
+                border-radius: 15px;
             }
             
             
@@ -1708,6 +1777,16 @@ top: 250px;
             #cadproject8:hover{
                 transform: translateY(-10px);
             }
+
+            #cadpro8img{
+                width: 450px;
+                height: 240px;
+                position: absolute;
+                left: 25px;
+                top: 15px;
+                border: 2px solid white;
+                border-radius: 15px;
+            }
                 
             
                 
@@ -1738,6 +1817,15 @@ top: 250px;
             
             #cadproject9:hover{
                 transform: translateY(-10px);
+            }
+            #cadpro9img{
+                width: 450px;
+                height: 240px;
+                position: absolute;
+                left: 25px;
+                top: 15px;
+                border: 2px solid white;
+                border-radius: 15px;
             }
                     
                    
