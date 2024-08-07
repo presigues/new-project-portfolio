@@ -341,6 +341,16 @@ margin-right: 30px;
     position: absolute;
     left: 200px;
     top: 500px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+
+#intpropanel:hover{
+    transform: translateY(-10px)
 }
 #intarttitle{
     color: white;
@@ -368,6 +378,15 @@ margin-right: 20px;
     position: absolute;
     left: 725px;
     top: 500px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+#intpropanel:hover{
+    transform: translateY(-10px)
 }
 
 #intprotitle{
@@ -396,6 +415,16 @@ margin-right: 20px;
     position: absolute;
     right: 200px;
     top: 500px;
+    transition-duration: 0.4s;
+    transition-property: transform;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+    transition: transform 0.3s;
+}
+
+#intmuspanel:hover{
+    transform: translateY(-10px)
 }
 
 #intmustitle{

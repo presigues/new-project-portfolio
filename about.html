@@ -7,6 +7,15 @@
         <title>Menu</title>
     </head>
     <body>
+           <script>
+            let cursor = document.querySelector('#cursor');
+            let body = document.querySelector('body');
+            document.addEventListener('mousemove', (e) => {
+            body.style.backgroundPositionX = e.pageX + 'px';
+            body.style.backgroundPositionY = e.pageY + 'px';
+            })
+
+        </script>
 
           <nav id="nav">   
             <p id="name">Preston Messina</p>
@@ -50,11 +59,11 @@
     <p id="infoimg2">FRC Provincials 2024</p>
 </div>
 <div id="photo3">
-    <img id="photoimg3">
+    <img id="photoimg3" src="imgs/musicfest.jpeg">
     <p id="infoimg3">Music-fest Canada</p>
 </div>
 <div id="photo4">
-    <img id="photoimg4">
+    <img id="photoimg4" src="imgs/rom.jpeg">
     <p id="infoimg4">the ROM</p>
 </div>
 <div id="photo5">

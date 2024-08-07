@@ -7,6 +7,15 @@
         <title>Menu</title>
     </head>
     <body>
+           <script>
+            let cursor = document.querySelector('#cursor');
+            let body = document.querySelector('body');
+            document.addEventListener('mousemove', (e) => {
+            body.style.backgroundPositionX = e.pageX + 'px';
+            body.style.backgroundPositionY = e.pageY + 'px';
+            })
+
+        </script>
    
           <nav id="nav">   
             <p id="name">Preston Messina</p>
