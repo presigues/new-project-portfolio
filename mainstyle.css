@@ -2616,6 +2616,42 @@ top: 250px;
                 transition: transform 0.3s;
                 animation: rotatevar1 8s ease-in-out alternate infinite;
             }
+            #trim5{
+                position: absolute;
+                left: 700px;
+                top: 350px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #trim6{
+                position: absolute;
+                left: 850px;
+                top: 850px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #trim7{
+                position: absolute;
+                right: 700px;
+                top: 400px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
             #circm1{
                 position: absolute;
                 left: 380px;
