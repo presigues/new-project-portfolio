@@ -310,7 +310,7 @@ html{
     font-family: pixel;
     font-size: 70px;
     position: absolute;
-    left: 750px;
+    left: 700px;
 }
 
 #interetspanel1{
@@ -320,7 +320,7 @@ border-radius: 15px;
 width: 950px;
 height: 200px;
 position: absolute;
-left: 450px;
+left: 425px;
 top: 200px;
 }
 
@@ -366,7 +366,7 @@ margin-right: 20px;
     width: 400px;
     height: 450px;
     position: absolute;
-    left: 750px;
+    left: 725px;
     top: 500px;
 }
 
@@ -394,7 +394,7 @@ margin-right: 20px;
     width: 400px;
     height: 450px;
     position: absolute;
-    left: 1300px;
+    right: 200px;
     top: 500px;
 }
 
@@ -2306,7 +2306,7 @@ top: 250px;
                 font-size: 20px;
                 position: absolute;
                 bottom: 50px;
-                left: 750px;
+                left: 725px;
                 transition-duration: 0.4s;
             }
             #intlearnmore:hover{
