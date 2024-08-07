@@ -2437,7 +2437,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 10s ease-in-out alternate infinite;
+                animation: rotatevar1 10s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #squarem1{
@@ -2450,7 +2450,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 10s ease-in-out alternate infinite;
+                animation: rotatevar1 10s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem2{
                 position: absolute;
@@ -2462,7 +2462,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 7s ease-in-out alternate infinite;
+                animation: rotatevar1 7s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #squarem3{
@@ -2475,7 +2475,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 16s ease-in-out alternate infinite;
+                animation: rotatevar1 16s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem4{
                 position: absolute;
@@ -2487,7 +2487,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 12s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #squarem5{
@@ -2500,7 +2500,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 12s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #squarem6{
@@ -2513,7 +2513,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 13s ease-in-out alternate infinite;
+                animation: rotatevar1 13s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem7{
                 position: absolute;
@@ -2525,7 +2525,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 15s ease-in-out alternate infinite;
+                animation: rotatevar1 15s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem8{
                 position: absolute;
@@ -2538,7 +2538,7 @@ top: 250px;
                 
                 transition: transform 0.3s;
                 animation: fade 8s ease-in;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem9{
                 position: absolute;
@@ -2550,7 +2550,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 11s ease-in-out alternate infinite;
+                animation: rotatevar1 11s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarem10{
                 position: absolute;
@@ -2562,7 +2562,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 15s ease-in-out alternate infinite;
+                animation: rotatevar1 15s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
 
@@ -2577,7 +2577,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 13s ease-in-out alternate infinite;
+                animation: rotatevar1 13s ease-in-out alternate infinite, fade 4s ease-in;
             }
             
             #trim2{
@@ -2590,7 +2590,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 16s ease-in-out alternate infinite;
+                animation: rotatevar1 16s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #trim3{
                 position: absolute;
@@ -2602,7 +2602,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 18s ease-in-out alternate infinite;
+                animation: rotatevar1 18s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #trim4{
                 position: absolute;
@@ -2614,7 +2614,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 15s ease-in-out alternate infinite;
+                animation: rotatevar1 15s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #trim5{
                 position: absolute;
@@ -2626,7 +2626,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 12s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #trim6{
                 position: absolute;
@@ -2638,7 +2638,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 14s ease-in-out alternate infinite;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #trim7{
                 position: absolute;
@@ -2650,7 +2650,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 19s ease-in-out alternate infinite;
+                animation: rotatevar1 19s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm1{
                 position: absolute;
@@ -2662,7 +2662,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 12s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #circm2{
@@ -2675,7 +2675,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 10s ease-in-out alternate infinite;
+                animation: rotatevar1 10s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm3{
                 position: absolute;
@@ -2687,7 +2687,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 6s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm4{
                 position: absolute;
@@ -2699,7 +2699,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm4{
                 position: absolute;
@@ -2711,7 +2711,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm5{
                 position: absolute;
@@ -2723,7 +2723,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm6{
                 position: absolute;
@@ -2735,7 +2735,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circm7{
                 position: absolute;
@@ -2747,7 +2747,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 8s ease-in-out alternate infinite;
+                animation: rotatevar1 8s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
 
@@ -2761,7 +2761,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 6s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarea2{
                 position: absolute;
@@ -2773,7 +2773,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 14s ease-in-out alternate infinite;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarea3{
                 position: absolute;
@@ -2785,7 +2785,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 6s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circa1{
                 position: absolute;
@@ -2797,7 +2797,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 14s ease-in-out alternate infinite;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circa2{
                 position: absolute;
@@ -2809,7 +2809,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 14s ease-in-out alternate infinite;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep1{
                 position: absolute;
@@ -2821,7 +2821,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 20s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep2{
                 position: absolute;
@@ -2833,7 +2833,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 19s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep3{
                 position: absolute;
@@ -2845,7 +2845,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 7s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep4{
                 position: absolute;
@@ -2857,7 +2857,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep5{
                 position: absolute;
@@ -2869,7 +2869,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 18s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #squarep6{
                 position: absolute;
@@ -2881,7 +2881,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
             #circp1{
@@ -2894,7 +2894,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 16s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circp2{
                 position: absolute;
@@ -2906,7 +2906,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 11s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circp3{
                 position: absolute;
@@ -2918,7 +2918,7 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 10s ease-in-out alternate infinite, fade 4s ease-in;
             }
             #circp4{
                 position: absolute;
@@ -2930,7 +2930,92 @@ top: 250px;
                 transition-delay: 0s;
                 
                 transition: transform 0.3s;
-                animation: rotatevar1 6s ease-in-out alternate infinite;
+                animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+
+            #squaream1{
+                position: absolute;
+                left: 440px;
+                    top: 130px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #squaream2{
+                position: absolute;
+                right: 300px;
+                    top: 400px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #squaream3{
+                position: absolute;
+                left: 150px;
+                    top: 800px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #squaream4{
+                position: absolute;
+                right: 200px;
+                    top: 700px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #circam1{
+                position: absolute;
+                right: 40px;
+                    top: 500px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #circam2{
+                position: absolute;
+                left: 40px;
+                    top: 400px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #circam3{
+                position: absolute;
+                right: 400px;
+                    top: 100px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
 
