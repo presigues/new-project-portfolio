@@ -2058,7 +2058,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+                margin-left: 20px;
             }
 
             #intartmaininfo{
@@ -2066,6 +2066,17 @@ top: 250px;
                 color: white;
                 font-size: 15px;
                 margin-left: 20px;
+            }
+
+
+            #intartex{
+                width: 170px;
+                height: 210px;
+                border: 2px solid white;
+                border-radius: 15px;  
+                position: absolute;
+                left: 110px;
+                top: 250px;          
             }
 
             #intmusmain{
@@ -2093,7 +2104,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+                margin-left: 20px;
             }
 
             #intmusmaininfo{
@@ -2128,7 +2139,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+                margin-left: 20px;
             }
 
             #intpromaininfo{
@@ -2136,6 +2147,27 @@ top: 250px;
                 color: white;
                 font-size: 15px;
                 margin-left: 20px;
+            }
+
+            #intprobut{
+                background-color: transparent;
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                bottom: 20px;
+                left: 25px;
+                width: 350px;
+                height: 50px;
+                transition-duration: 0.4s;
+            }
+
+            #intprobut:hover{
+                color: #222;
+                border: 1px solid white;
+                background-color: white;
             }
 
             #intcadmain{
@@ -2163,7 +2195,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+                margin-left: 20px;
             }
 
             #intcadmaininfo{
@@ -2197,7 +2229,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+                margin-left: 20px;
             }
 
             #intdevmaininfo{
@@ -2232,7 +2264,7 @@ top: 250px;
                 font-family: pixel;
                 color: white;
                 font-size: 40px;
-              margin-left: 150px;
+              margin-left: 20px;
             }
 
             #intbikmaininfo{
