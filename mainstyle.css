@@ -2884,6 +2884,57 @@ top: 250px;
                 animation: rotatevar1 6s ease-in-out alternate infinite;
             }
 
+            #circp1{
+                position: absolute;
+            right: 300px;
+                top: -60px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #circp2{
+                position: absolute;
+            left: 200px;
+                top: -20px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #circp3{
+                position: absolute;
+            right: 300px;
+                top: 100px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #circp4{
+                position: absolute;
+            left: 440px;
+                top: 70px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+
+
+
             
 
 
