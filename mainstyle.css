@@ -1907,8 +1907,9 @@ top: 250px;
                 border: 2px solid white;
                 border-radius: 15px;
                 position: absolute;
-                right: 550px;
                 top: 150px;
+                right: 550px;
+                
             }
 
             #infoimg3{
@@ -1917,7 +1918,7 @@ top: 250px;
                 font-size: 20px;
                 position: absolute;
                 top: 420px;
-                left: 550px;
+                right: 550px;
             }
             #photoimg4{
                 width: 300px;
@@ -1972,7 +1973,7 @@ top: 250px;
                 font-family: pixel;
                 font-size: 20px;
                 position: absolute;
-                top: 420px;
+                top: 780px;
                 left: 550px;
             }
             #photoimg7{
@@ -1990,7 +1991,7 @@ top: 250px;
                 font-family: pixel;
                 font-size: 20px;
                 position: absolute;
-                left: 520px;
+                right: 550px;
                 top: 780px;
             }
             #photoimg8{
@@ -2995,8 +2996,8 @@ top: 250px;
             }
             #circam2{
                 position: absolute;
-                left: 40px;
-                    top: 400px;
+                left: 200px;
+                    top: 500px;
                     transition-duration: 0.3s;
                     transition-property: transform;
                     transition-timing-function: ease;
@@ -3009,6 +3010,18 @@ top: 250px;
                 position: absolute;
                 right: 400px;
                     top: 100px;
+                    transition-duration: 0.3s;
+                    transition-property: transform;
+                    transition-timing-function: ease;
+                    transition-delay: 0s;
+                    
+                    transition: transform 0.3s;
+                    animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #circam4{
+                position: absolute;
+                left: 200px;
+                    top: 200px;
                     transition-duration: 0.3s;
                     transition-property: transform;
                     transition-timing-function: ease;
