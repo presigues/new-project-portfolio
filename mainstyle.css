@@ -2565,6 +2565,56 @@ top: 250px;
                 transition: transform 0.3s;
                 animation: rotatevar1 8s ease-in-out alternate infinite;
             }
+            #circm1{
+                position: absolute;
+                left: 380px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 12s ease-in-out alternate infinite;
+            }
+
+            #circm2{
+                position: absolute;
+                right: 380px;
+                top: 250px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 10s ease-in-out alternate infinite;
+            }
+            #circm3{
+                position: absolute;
+                right: 250px;
+                top: 450px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #circm4{
+                position: absolute;
+                left: 250px;
+                top: 750px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+
 
 
 
