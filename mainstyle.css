@@ -2112,6 +2112,7 @@ top: 250px;
                 color: white;
                 font-size: 15px;
                 margin-left: 20px;
+                margin-right: 20px;
             }
 
             #intpromain{
@@ -2203,6 +2204,26 @@ top: 250px;
                 color: white;
                 font-size: 15px;
                 margin-left: 20px;
+            }
+            #intcadbut{
+                background-color: transparent;
+                color: white;
+                font-family: pixel;
+                font-size: 20px;
+                border: 2px solid white;
+                border-radius: 15px;
+                position: absolute;
+                bottom: 20px;
+                left: 25px;
+                width: 350px;
+                height: 50px;
+                transition-duration: 0.4s;
+            }
+
+            #intcadbut:hover{
+                color: #222;
+                border: 1px solid white;
+                background-color: white;
             }
             #intdevmain{
                 width: 400px;
@@ -3061,6 +3082,56 @@ top: 250px;
                     
                     transition: transform 0.3s;
                     animation: rotatevar1 12s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+
+            #squarei1{
+                position: absolute;
+            left: 200px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+
+            #squarei2{
+                position: absolute;
+            right: 400px;
+                top: 100px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #squarei3{
+                position: absolute;
+            right: 600px;
+                top: 500px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
+            }
+            #squarei4{
+                position: absolute;
+            left: 600px;
+                top: 900px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite, fade 4s ease-in;
             }
 
 
