@@ -2515,6 +2515,57 @@ top: 250px;
                 transition: transform 0.3s;
                 animation: rotatevar1 13s ease-in-out alternate infinite;
             }
+            #squarem7{
+                position: absolute;
+                right: 700px;
+                top: 800px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 15s ease-in-out alternate infinite;
+            }
+            #squarem8{
+                position: absolute;
+                left: 700px;
+                top: 700px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: fade 8s ease-in;
+                animation: rotatevar1 8s ease-in-out alternate infinite;
+            }
+            #squarem9{
+                position: absolute;
+                left: 800px;
+                top: 200px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 11s ease-in-out alternate infinite;
+            }
+            #squarem10{
+                position: absolute;
+                right: 900px;
+                top: 300px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 15s ease-in-out alternate infinite;
+            }
+
+
 
             #trim1{
                 position: absolute;
@@ -2691,6 +2742,38 @@ top: 250px;
                 100%{
                     rotate: 80deg;
                     transform: translateY(20px) translateX(3px);
+                }
+                
+            }
+
+            #ps3{
+                position: absolute;
+                right: 550px;
+                top: 40px;
+                animation: ps3rot 8s ease-in-out alternate infinite;
+            }
+
+            @keyframes ps3rot {
+
+                0%{
+                    rotate: 20deg;
+                }
+                50%{
+                    rotate: -40deg;
+                }
+                100%{
+                    rotate: 20deg;
+                }
+                
+            }
+
+            @keyframes fade {
+
+                0%{
+                    opacity: 0;
+                }
+                100%{
+                    opacity: 1;
                 }
                 
             }
