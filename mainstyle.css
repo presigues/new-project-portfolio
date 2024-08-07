@@ -2615,6 +2615,67 @@ top: 250px;
                 animation: rotatevar1 8s ease-in-out alternate infinite;
             }
 
+            #squarea1{
+                position: absolute;
+                left: 110px;
+                top: 100px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #squarea2{
+                position: absolute;
+                left: 40px;
+                top: 300px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite;
+            }
+            #squarea3{
+                position: absolute;
+                right: 20px;
+                top: 20px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 6s ease-in-out alternate infinite;
+            }
+            #circa1{
+                position: absolute;
+                left: 20px;
+                top: 0px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite;
+            }
+            #circa2{
+                position: absolute;
+                right: 80px;
+                top: 100px;
+                transition-duration: 0.3s;
+                transition-property: transform;
+                transition-timing-function: ease;
+                transition-delay: 0s;
+                
+                transition: transform 0.3s;
+                animation: rotatevar1 14s ease-in-out alternate infinite;
+            }
+
 
 
 
