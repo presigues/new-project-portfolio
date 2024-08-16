@@ -43,27 +43,27 @@ i hope you enjoys looking through this website!
 
 **"imgs"**
 
-arcade.png
-circle.png
-compdoodle.png
-image_720.png
-image_2024-08-03_212733695-removebg-preview.png
-image-removebg-preview (1).png
-image-removebg-preview.png
-IMG_8546.jpg
-IMG_8807.jpg
-IMG_8885.jpg
-kat.jpeg
-kindpng_1280233 (1).png
-mecanum3.jpg
-musicfest.jpeg
-ps3.png
-rank.jpg
-rom.jpeg
-satalight.png
-Screenshot 2024-08-04 131940.jpg
-square.png
-triangle.png
+* arcade.png
+* circle.png
+* compdoodle.png
+* image_720.png
+* image_2024-08-03_212733695-removebg-preview.png
+* image-removebg-preview (1).png
+* image-removebg-preview.png
+* IMG_8546.jpg
+* IMG_8807.jpg
+* IMG_8885.jpg
+* kat.jpeg
+* kindpng_1280233 (1).png
+* mecanum3.jpg
+* musicfest.jpeg
+* ps3.png
+* rank.jpg
+* rom.jpeg
+* satalight.png
+* Screenshot 2024-08-04 131940.jpg
+* square.png
+* triangle.png
 
 -------------------------------------
 
