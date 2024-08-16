@@ -2,6 +2,8 @@
 
 check it out here : https://preston-project-portfolio.netlify.app
 
+https://github.com/user-attachments/assets/cc197828-f3f2-4228-a5c6-be6d8952cd0b
+
 this is an updated version of my previous protfolio updated with what i have learnt while learning html and css, (and being apart of hack club!)
 
 the website opens to the homepage where you see glimpese of my interests, projects, and about me. 
