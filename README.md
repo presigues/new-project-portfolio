@@ -24,21 +24,21 @@ i hope you enjoys looking through this website!
 
 **"photoimgs"** (these images are for the project page)
 
-cadshow.jpg
-centerobot.png
-click.jpg
-gameshow.jpg
-link.jpg
-login1.jpg
-mecanum3.jpg
-oldport.jpg
-prolearn.jpg
-rankem.jpg
-rankfrc.jpg
-rockpaper.jpg
-Screenshot 2024-08-06 132303.jpg
-tetrix.jpg
-void.jpg
+* cadshow.jpg
+* centerobot.png
+* click.jpg
+* gameshow.jpg
+* link.jpg
+* login1.jpg
+* mecanum3.jpg
+* oldport.jpg
+* prolearn.jpg
+* rankem.jpg
+* rankfrc.jpg
+* rockpaper.jpg
+* Screenshot 2024-08-06 132303.jpg
+* tetrix.jpg
+* void.jpg
 --------------------------------------
 
 **"imgs"**
